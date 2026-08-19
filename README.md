@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -20,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/pradnya-jadhav-it/DSA/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradnya-jadhav-it/DSA/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
