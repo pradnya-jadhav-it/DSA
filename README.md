@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pradnya-jadhav-it/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradnya-jadhav-it/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/pradnya-jadhav-it/DSA/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/pradnya-jadhav-it/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradnya-jadhav-it/DSA/tree/master/0283-move-zeroes) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pradnya-jadhav-it/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/pradnya-jadhav-it/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pradnya-jadhav-it/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/pradnya-jadhav-it/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
