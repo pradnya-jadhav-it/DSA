@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/pradnya-jadhav-it/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pradnya-jadhav-it/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pradnya-jadhav-it/DSA/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
