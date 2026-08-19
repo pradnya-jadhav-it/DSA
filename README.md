@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pradnya-jadhav-it/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pradnya-jadhav-it/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradnya-jadhav-it/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/pradnya-jadhav-it/DSA/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pradnya-jadhav-it/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -66,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/pradnya-jadhav-it/DSA/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pradnya-jadhav-it/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pradnya-jadhav-it/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -95,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pradnya-jadhav-it/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
