@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pradnya-jadhav-it/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pradnya-jadhav-it/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/pradnya-jadhav-it/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pradnya-jadhav-it/DSA/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pradnya-jadhav-it/DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pradnya-jadhav-it/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
