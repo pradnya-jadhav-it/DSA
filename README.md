@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -93,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pradnya-jadhav-it/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pradnya-jadhav-it/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradnya-jadhav-it/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pradnya-jadhav-it/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pradnya-jadhav-it/DSA/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
