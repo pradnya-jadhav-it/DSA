@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradnya-jadhav-it/DSA/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/pradnya-jadhav-it/DSA/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/pradnya-jadhav-it/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
