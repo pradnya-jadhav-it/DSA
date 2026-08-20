@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pradnya-jadhav-it/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pradnya-jadhav-it/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pradnya-jadhav-it/DSA/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/pradnya-jadhav-it/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pradnya-jadhav-it/DSA/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/pradnya-jadhav-it/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pradnya-jadhav-it/DSA/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
